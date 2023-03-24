@@ -1,3 +1,6 @@
+
+
+
 # ManUp-App
 
 The main reason for the app and database server is so we can have overall statistics on an international, national, and local level, and so we can see where improvements are needed to be made and implemented. The app and database will also keep our program on a uniformity level so each program is the same. 
