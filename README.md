@@ -119,3 +119,9 @@ e.	Build mirror site.
 10.	Fix any bugs.
 11.	Launch app with Apple, Google Play, and Clear Net APP.
 12.	Launch app to the whole church.
+
+UI/UX live.
+
+https://www.fluidui.com/editor/live/project/p_NyRLQ5Ee8mlRA6GTXdDbReKu2UK08UVg.1679547716163#x_ut3VHuiBqAx0JCr9ykHMA5irsFLL68ut
+
+
