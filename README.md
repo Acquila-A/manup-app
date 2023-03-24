@@ -1,1 +1,1 @@
-# manup-app
+# ManUp-App
